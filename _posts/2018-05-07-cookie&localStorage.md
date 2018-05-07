@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "cookie & localStorage"
-date:   2016-12-29 18:34:10 +0700
-categories: [other]
+date:   2018-05-05 18:34:10 
+categories: home
 ---
 웹페이지에서 데이터를 저장하는 방법은 cookie와 webStorage(localStorage, sessionStorage) 두가지방식이 있습니다.
 
