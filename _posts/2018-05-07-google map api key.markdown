@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Map Api Key"
 date:   2018-05-07
-categories: [others]
+categories: others
 ---
 #### **API KEY 가져오기**
 안드로이드에서 google Map API를 사용하려면 일단 KEY를 만들어야 합니다. 이 KEY는 상단에 '키 가져오기'를 클릭하여 쉽게 만들 수 있습니다.
