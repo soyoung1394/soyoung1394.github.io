@@ -2,7 +2,7 @@
 layout: post
 title:  "text-overflow"
 date:   2018-05-11 20:09:19
-categories: others
+categories: /category/others
 ---
 프로젝트를 진행할 때 프로필을 구현하면서 자기소개를 넣을 때 글이 너무 많기보다는 어느 정도가 되면 그 뒤는 '...'으로 생략을 했으면 좋겠다는 생각을 했었다
 
