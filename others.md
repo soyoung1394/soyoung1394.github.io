@@ -1,5 +1,5 @@
 ---
 layout: project
-title: Projects
+title: others
 permalink: /category/others
 ---

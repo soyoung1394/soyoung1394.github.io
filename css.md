@@ -1,5 +1,5 @@
 ---
-layout: css
+layout: post
 title: css
 permalink: category/css/
 ---
