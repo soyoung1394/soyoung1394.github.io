@@ -38,6 +38,8 @@ urls:
       url: /projects/
     - text: others
       url: /others/
+    - text: css
+      url: /css/
 
 url: "https://soyoung1394.github.io"
 baseurl: ""

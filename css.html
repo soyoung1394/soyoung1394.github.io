@@ -1,0 +1,9 @@
+---
+layout: css
+---
+<ul id="post-list">
+    {% for post in site.categories.css %}
+        {% include css.html %}
+    {% endfor %}
+</ul>
+{% include pagination.html %}
