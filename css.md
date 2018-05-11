@@ -1,5 +1,5 @@
 ---
 layout: page
 title: css
-permalink: /css/
+permalink: category/css/
 ---
