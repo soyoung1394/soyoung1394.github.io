@@ -40,6 +40,8 @@ urls:
       url: /others/
     - text: css
       url: /css/
+    - text: python
+      url: /python/
 
 url: "https://soyoung1394.github.io"
 baseurl: ""
