@@ -37,7 +37,7 @@ urls:
     - text: My Projects
       url: /projects/
     - text: others
-      url: /others/
+      url: /category/others
 
 url: "https://soyoung1394.github.io"
 baseurl: ""
