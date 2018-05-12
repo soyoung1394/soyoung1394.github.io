@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "cookie & localStorage"
+title:  "[web]cookie & localStorage"
 date:   2018-05-05 18:34:10
 categories: others
 ---

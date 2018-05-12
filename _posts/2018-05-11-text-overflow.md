@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "text-overflow"
+title:  "[css]text-overflow"
 date:   2018-05-11 20:09:19
 categories: [css]
 ---
